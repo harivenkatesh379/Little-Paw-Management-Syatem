@@ -1,0 +1,30 @@
+.Nav-container {
+  background-color: #E26A2C;
+}
+
+body {
+  background-color: #F6D7A7;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  color: White;
+}
+
+table, th, td {
+  border: 1px solid #E26A2C;
+  color: #E26A2C;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  column-width: auto;
+}
+
+.salesdetails-table {
+  margin: 10% 10%;
+}
